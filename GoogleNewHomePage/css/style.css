@@ -1,0 +1,164 @@
+* {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  text-align: right;
+  height: 48px;
+  min-width: auto;
+}
+
+.gb_Ve {
+  width: 24px;
+  position: relative;
+  top: 8px; right: 8px;
+  opacity: 60%;
+}
+
+.ggs {
+  font-size: 13px;
+  text-decoration: none;
+  color: #000000DE;
+  padding-right: 15px;
+}
+
+.apps {
+  position: relative;
+  padding-right: 15px;
+}
+
+.googlelogo {
+  margin-top: 210px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.search {
+  outline: none;
+  width: 480px;
+  margin: 0;
+  padding: 0;
+  height: 44px;
+  font-size: 16px;
+  word-wrap: break-word;
+  border: none;
+}
+
+.searccontainer {
+  text-align: center;
+  height: 44px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  margin: 0 auto;
+  width: auto;
+  max-width: 584px;
+  margin-bottom: 20px;
+}
+.searccontainer:hover {
+  box-shadow: 0 1px 6px rgba(32,33,36,.28);
+  background-color: #f8f9fa;
+  border: 1px solid #dadce0;
+  color: #202124;
+  background: transparent;
+}
+
+.srcbtnimg {
+  width: 20px;
+  position: relative;
+  top: 7px; left: 2px; 
+  opacity: 60%;
+}
+
+.micimg {
+  width: 24px;
+  position: relative;
+  top: 6px; 
+}
+
+.kbimg {
+  position: relative;
+  right: 10px;
+}
+
+.searchbutton {
+  text-align: center;
+}
+
+.button {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  line-height: 27px;
+  user-select: none;
+}
+
+.button:hover {
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  background-color: #f8f9fa;
+  border: 1px solid #dadce0;
+  color: #202124;
+}
+
+.appsbutton {
+  width: 20px;
+  padding-right: 15px;
+  vertical-align: bottom
+}
+
+.profilpic {
+  border-radius: 50%;
+  margin-right: 15px;
+  position: relative;
+  top: 10px;
+}
+
+.turk {
+  padding: 15px 30px;
+  border-bottom: 1px solid #dadce0;
+  font-size: 15px;
+  color: rgba(0, 0, 0, .54);
+  background: #f2f2f2;
+  bottom: 46px;
+  width: 100%;
+  position: fixed;
+}
+
+footer {
+  background: #f2f2f2;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-decoration: none;
+  padding: 15px 30px;
+  font-size: 14px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.ilk4 {
+  min-width: 30%;
+  text-decoration: none;
+  padding: 15px 30px;
+  color: rgba(0, 0, 0, .54); 
+}
+
+.ilk4:hover, .son3:hover, .ggs:hover {
+  text-decoration: underline;
+}
+
+.son3 {
+  min-width: 30%;
+  color: rgba(0, 0, 0, .54);
+  text-decoration: none;
+  padding: 15px 30px;
+}
